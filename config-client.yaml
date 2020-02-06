@@ -1,2 +1,2 @@
-service: 
-	message: This is from Config Servver - default profile 
+service:
+    message: This is from Config Servver - default profile
