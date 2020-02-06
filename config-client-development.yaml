@@ -1,2 +1,2 @@
-service: 
-	message: This is from Config Servver - Development Environment
+service:
+    message:  This is from Config Servver - Development Environment
